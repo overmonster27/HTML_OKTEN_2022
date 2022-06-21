@@ -1,0 +1,30 @@
+body{background:green;}
+
+
+h1{
+    text-align: center;
+    background:peru;
+    color: red;
+}
+
+h2{
+text-align: center;
+    background: aqua;
+    color:darkred;'
+}
+p{
+    background: coral;
+    color: firebrick;
+}
+li{
+    background:salmon;
+    color: black;
+}
+img{
+        width: 350px;
+}
+
+a{
+    text-decoration: none;
+
+}

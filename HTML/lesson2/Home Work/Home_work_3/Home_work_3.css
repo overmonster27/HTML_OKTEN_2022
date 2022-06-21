@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+
+}
+.full{
+    width: 700px;
+    height: 420px;
+    background: gray;
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+
+
+}
+.left{
+    height: 100%;
+    width: 50%;
+    background: #0ddcf3;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.bloks{
+    width: 300px;
+    height: 100px;
+    background:white ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+
+}
+.fa-solid{
+    background: none;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.descriptions{
+    width: 210px;
+    height: 90px;
+}
+.title{
+    font-size: 18px;
+    color: orange;
+    font-family: "Calibri Light", serif;
+}
+.text{
+    font-size: 15px;
+    font-family: "Cambria Math", serif;
+}

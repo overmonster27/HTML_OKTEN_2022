@@ -1,0 +1,60 @@
+body{
+    height: 800px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.big{
+    width: 100%;
+    height: 50%;
+    background: #c1834e;
+    position: relative;
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.small1 {
+    width: 150px;
+    height: 70px;
+    background: #0ddcf3;
+    border-radius: 20px;
+    position: absolute;
+    top: -100px;
+    left: 50px;
+}
+
+.config {
+    height: 200px;
+    width: 200px;
+    background: #0ddcf3;
+    border: 20px;
+    position: absolute;
+    border-radius: 20px;
+}
+.small2{
+    left:300px;
+    top: 300px;
+}
+.small3{
+    right: 300px;
+    top:300px;
+}
+.small4{
+    top:300px;
+}
+.fa-solid{
+    font-size: 40px;
+    color: #c9c3c3;
+    top:-100px
+}
+.fa-magnifying-glass{
+    position: absolute;
+    right: 200px;
+}
+.fa-align-justify{
+    position: absolute;
+    right: 100px;
+}

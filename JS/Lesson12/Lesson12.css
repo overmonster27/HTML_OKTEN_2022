@@ -1,0 +1,10 @@
+.mainDiv{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.innerDiv{
+width: 20%;
+}

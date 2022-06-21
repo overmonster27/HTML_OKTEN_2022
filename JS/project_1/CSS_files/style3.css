@@ -1,0 +1,31 @@
+.body {
+    margin: 0;
+}
+
+.general {
+    width: 100%;
+    border: 2px solid red;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.generalComent{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    width: 80%;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.comment{
+    width: 40%;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 10px;
+
+    background: #e1e79a;
+}
